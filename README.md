@@ -25,7 +25,7 @@ Github created for archiving Fortnite heightmaps!
 ### Season 2 (Top Secret)
 | *Version* | *Heightmap* |*HM Download Link* |
 | :---         |     :---:      |          ---: |
-| 12.00 |❌|N/A|
+| 12.00 |✅|[*Download Here*](https://github.com/iamstillchris/Fortnite-Heightmaps/blob/main/HM%20Archive/CH2%20-%20HMS/Season%202/S12.00%20-%20HM.zip)|
 | 12.10 |❌|N/A|
 | 12.20 |❌|N/A|
 | 12.21 |❌|N/A|
