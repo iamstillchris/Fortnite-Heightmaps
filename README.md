@@ -19,7 +19,7 @@ Github created for archiving Fortnite heightmaps!
 | 11.20 |❌|N/A|
 | 11.21 |❌|N/A|
 | 11.30 |❌|N/A|
-| 11.31 |✅| [*Download Here*]({ph})|
+| 11.31 |✅| [*Download Here*](https://github.com/iamstillchris/Fortnite-Heightmaps/blob/main/S11.31%20-%20HM.zip)|
 | 11.40 |❌|N/A|
 | 11.50 |❌|N/A|
 ### Season 2 (Top Secret)
@@ -59,7 +59,7 @@ Github created for archiving Fortnite heightmaps!
 | 15.10 |❌|N/A|
 | 15.20 |❌|N/A|
 | 15.21 |❌|N/A|
-| 15.30 |✅|[*Download Here*]({ph})|
+| 15.30 |✅|[*Download Here*](https://github.com/iamstillchris/Fortnite-Heightmaps/blob/main/S15.30%20-%20HM.zip)|
 | 15.40 |❌|N/A|
 | 15.50 |❌|N/A|
 ### Season 6 (Primal)
@@ -130,7 +130,7 @@ Github created for archiving Fortnite heightmaps!
 ### Season 1 (New Beginning)
 | *Version* | *Heightmap* |*HM Download Link* |
 | :---         |     :---:      |          ---: |
-| 23.00 |❌|N/A|
+| 23.00 |✅|[*Download Here*](https://github.com/iamstillchris/Fortnite-Heightmaps/blob/main/S23.00%20-%20HM.zip)|
 | 23.10 |❌|N/A|
 | 23.20 |❌|N/A|
 | 23.30 |❌|N/A|
@@ -142,7 +142,7 @@ Github created for archiving Fortnite heightmaps!
 | 24.00 |❌|N/A|
 | 24.01 |❌|N/A| 
 | 24.10 |❌|N/A|
-| 24.20 |❌|N/A|
+| 24.20 |✅|[*Download Here*](https://github.com/iamstillchris/Fortnite-Heightmaps/blob/main/S24.20%20-%20HM.zip)|
 | 24.30 |❌|N/A|
 | 24.40 |❌|N/A|
 ### Season 3 (Wilds)
@@ -158,14 +158,14 @@ Github created for archiving Fortnite heightmaps!
 | :---         |     :---:      |          ---: |
 | 26.00 |❌|N/A|
 | 26.10 |❌|N/A|
-| 26.20 |❌|N/A|
+| 26.20 |✅|[*Download Here*](https://github.com/iamstillchris/Fortnite-Heightmaps/blob/main/S26.20%20-%20HM.zip)|
 | 26.30 |❌|N/A|
 ### Season 5 (OG)
 | *Version* | *Heightmap* |*HM Download Link* |
 | :---         |     :---:      |          ---: |
 | 27.00 |❌|N/A|
 | 27.10 |❌|N/A|
-| 27.11 |❌|N/A|
+| 27.11 |✅|[*Download Here*](https://github.com/iamstillchris/Fortnite-Heightmaps/blob/main/S27.11%20-%20HM.zip)|
 ## Chapter 5 (28.00-Current)
 ### Season 1 (Underground)
 | *Version* | *Heightmap* |*HM Download Link* |
@@ -182,4 +182,4 @@ Github created for archiving Fortnite heightmaps!
 | 29.01 |❌|N/A|
 | 29.10 |❌|N/A|
 | 29.20 |❌|N/A|
-| 29.30 |✅| [*Download Here*]({ph})|
+| 29.30 |✅| [*Download Here*](https://github.com/iamstillchris/Fortnite-Heightmaps/blob/main/S29.30%20-%20HM.zip)|
