@@ -80,7 +80,7 @@ Github created for archiving Fortnite heightmaps!
 | 17.21 |❌|N/A|
 | 17.30 |❌|N/A|
 | 17.40 |❌|N/A|
-| 17.50 |❌|N/A|
+| 17.50 |✅|[*Download Here*](https://github.com/iamstillchris/Fortnite-Heightmaps/blob/main/HM%20Archive/CH2%20-%20HMS/Season%207/S17.50%20-%20HM.zip)|
 ### Season 8 (Cubed)
 | *Version* | *Heightmap* |*HM Download Link* |
 | :---         |     :---:      |          ---: |
