@@ -51,7 +51,7 @@ Github created for archiving Fortnite heightmaps!
 | 14.30 |❌|N/A|
 | 14.40 |❌|N/A|
 | 14.50 |❌|N/A| 
-| 14.60 |❌|N/A|
+| 14.60 |✅|[*Download Here*](https://github.com/iamstillchris/Fortnite-Heightmaps/blob/main/HM%20Archive/CH2%20-%20HMS/Season%204/S14.60%20-%20HM.zip)|
 ### Season 5 (Zero Point)
 | *Version* | *Heightmap* |*HM Download Link* |
 | :---         |     :---:      |          ---: |
