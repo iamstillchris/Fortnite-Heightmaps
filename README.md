@@ -12,14 +12,14 @@ Github created for archiving Fortnite heightmaps!
 ### Season 1 (New World)
 | *Version* | *Heightmap* |*HM Download Link* |
 | :---         |     :---:      |          ---: |
-| 11.00 |❌|N/A|
+| 11.00 |✅|[*Download Here*](https://github.com/iamstillchris/Fortnite-Heightmaps/blob/main/HM%20Archive/CH2%20-%20HMS/Season%201/S11.00%20-%20HM.zip)|
 | 11.01 |❌|N/A|
 | 11.10 |❌|N/A|
 | 11.11 |❌|N/A|
 | 11.20 |❌|N/A|
 | 11.21 |❌|N/A|
 | 11.30 |❌|N/A|
-| 11.31 |✅| [*Download Here*](https://github.com/iamstillchris/Fortnite-Heightmaps/blob/main/HM%20Archive/CH2%20-%20HMS/Season%201/S11.31%20-%20HM.zip)|
+| 11.31 |✅|[*Download Here*](https://github.com/iamstillchris/Fortnite-Heightmaps/blob/main/HM%20Archive/CH2%20-%20HMS/Season%201/S11.31%20-%20HM.zip)|
 | 11.40 |❌|N/A|
 | 11.50 |❌|N/A|
 ### Season 2 (Top Secret)
