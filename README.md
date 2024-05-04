@@ -150,7 +150,7 @@ Github created for archiving Fortnite heightmaps!
 | :---         |     :---:      |          ---: |
 | 25.00 |❌|N/A|
 | 25.10 |❌|N/A|
-| 25.11 |❌|N/A|
+| 25.11 |✅|[*Download Here*](https://github.com/iamstillchris/Fortnite-Heightmaps/blob/main/HM%20Archive/CH4%20-%20HMS/Season%203/S25.11%20-%20HM.zip)|
 | 25.20 |❌|N/A|
 | 25.30 |❌|N/A|
 ### Season 4 (Last Resort)
