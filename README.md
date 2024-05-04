@@ -89,7 +89,7 @@ Github created for archiving Fortnite heightmaps!
 | 18.20 |❌|N/A|
 | 18.21 |❌|N/A|
 | 18.30 |❌|N/A|
-| 18.40 |❌|N/A|
+| 18.40 |✅|[*Download Here*](https://github.com/iamstillchris/Fortnite-Heightmaps/blob/main/HM%20Archive/CH2%20-%20HMS/Season%208/S18.40%20-%20HM.zip)|
 ## Chapter 3 (19.00-22.40)
 ### Season 1 (Flipped)
 | *Version* | *Heightmap* |*HM Download Link* |
