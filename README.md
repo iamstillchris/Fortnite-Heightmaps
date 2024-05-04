@@ -183,6 +183,7 @@ Github created for archiving Fortnite heightmaps!
 | 29.10 |❌|N/A|
 | 29.20 |❌|N/A|
 | 29.30 |✅| [*Download Here*](https://github.com/iamstillchris/Fortnite-Heightmaps/blob/main/HM%20Archive/CH5%20-%20HMS/Season%202/S29.30%20-%20HM.zip)|
+| 29.40 |✅| [*Download Here*](https://github.com/iamstillchris/Fortnite-Heightmaps/blob/main/HM%20Archive/CH5%20-%20HMS/Season%202/S29.40%20-%20HM.zip)|
 # Special Maps 
 | *Name* | *Heightmap* |*HM Download Link* |
 | :---         |     :---:      |          ---: |
