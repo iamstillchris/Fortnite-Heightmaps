@@ -192,3 +192,8 @@ Github created for archiving Fortnite heightmaps!
 | *Name* | *Heightmap* |*HM Download Link* |
 | :---         |     :---:      |          ---: |
 | Party Royale |✅| [*Download Here*](https://github.com/iamstillchris/Fortnite-Heightmaps/blob/main/HM%20Archive/Special%20-%20HMS/Party%20Royale%20-%20HM.zip)|
+
+## Credit
+
+- CharlesRBLX - HM Additions
+- [Minshu](https://patreon.com/minshug?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_fan&utm_content=join_link) - HM Extractor Tool
