@@ -31,7 +31,7 @@ Github created for archiving Fortnite heightmaps!
 | 12.21 |✅|[*Download Here*](https://github.com/iamstillchris/Fortnite-Heightmaps/blob/main/HM%20Archive/CH2%20-%20HMS/Season%202/S12.21%20-%20HM.zip)|
 | 12.30 |❌|N/A|
 | 12.40 |❌|N/A|
-| 12.41 |❌|N/A|
+| 12.41 |✅|[*Download Here*](https://github.com/iamstillchris/Fortnite-Heightmaps/blob/main/HM%20Archive/CH2%20-%20HMS/Season%202/S12.41%20-%20HM.zip)|
 | 12.50 |❌|N/A|
 | 12.60 |❌|N/A|
 | 12.61 |❌|N/A| 
