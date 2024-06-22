@@ -188,10 +188,13 @@ Github created for archiving Fortnite heightmaps!
 | *Version* | *Heightmap* |*HM Download Link* |
 | :---         |     :---:      |          ---: |
 | 30.00 |✅| [*Download Here*](https://github.com/iamstillchris/Fortnite-Heightmaps/blob/main/HM%20Archive/CH5%20-%20HMS/Season%203/S30.00%20-%20HM.zip)|
+| 30.10 |✅| [*Download Here*](https://github.com/iamstillchris/Fortnite-Heightmaps/blob/main/HM%20Archive/CH5%20-%20HMS/Season%203/S30.10%20-%20HM.zip)|
+| 30.20 |✅| [*Download Here*](https://github.com/iamstillchris/Fortnite-Heightmaps/blob/main/HM%20Archive/CH5%20-%20HMS/Season%203/S30.20%20-%20HM.zip)|
 # Special Maps 
 | *Name* | *Heightmap* |*HM Download Link* |
 | :---         |     :---:      |          ---: |
 | Party Royale |✅| [*Download Here*](https://github.com/iamstillchris/Fortnite-Heightmaps/blob/main/HM%20Archive/Special%20-%20HMS/Party%20Royale%20-%20HM.zip)|
+| Reload |✅| [*Download Here*](https://github.com/iamstillchris/Fortnite-Heightmaps/blob/main/HM%20Archive/Special%20-%20HMS/Reload%20-%20HM.zip)|
 
 # Credit
 
