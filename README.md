@@ -190,6 +190,12 @@ Github created for archiving Fortnite heightmaps!
 | 30.00 |✅| [*Download Here*](https://github.com/iamstillchris/Fortnite-Heightmaps/blob/main/HM%20Archive/CH5%20-%20HMS/Season%203/S30.00%20-%20HM.zip)|
 | 30.10 |✅| [*Download Here*](https://github.com/iamstillchris/Fortnite-Heightmaps/blob/main/HM%20Archive/CH5%20-%20HMS/Season%203/S30.10%20-%20HM.zip)|
 | 30.20 |✅| [*Download Here*](https://github.com/iamstillchris/Fortnite-Heightmaps/blob/main/HM%20Archive/CH5%20-%20HMS/Season%203/S30.20%20-%20HM.zip)|
+| 30.30 |❌| [N/A|
+| 30.40 |❌| [N/A|
+### Season 4 (Absolute DOOM)
+| *Version* | *Heightmap* |*HM Download Link* |
+| :---         |     :---:      |          ---: |
+| 31.00 |✅| [*Download Here*](https://github.com/iamstillchris/Fortnite-Heightmaps/tree/main/HM%20Archive/CH5%20-%20HMS/Season%204)|
 # Special Maps 
 | *Name* | *Heightmap* |*HM Download Link* |
 | :---         |     :---:      |          ---: |
