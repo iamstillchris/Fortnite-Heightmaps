@@ -107,7 +107,7 @@ Github created for archiving Fortnite heightmaps!
 | 20.10 |❌|N/A|
 | 20.20 |❌|N/A|
 | 20.30 |❌|N/A|
-| 20.40 |❌|N/A|
+| 20.40 |✅|[*Download Here*](https://github.com/iamstillchris/Fortnite-Heightmaps/blob/main/HM%20Archive/CH3%20-%20HMS/Season%202/S20.40%20-%20HM.zip)|
 ### Season 3 (Vibin’)
 | *Version* | *Heightmap* |*HM Download Link* |
 | :---         |     :---:      |          ---: |
@@ -125,7 +125,7 @@ Github created for archiving Fortnite heightmaps!
 | 22.10 |❌|N/A|
 | 22.20 |❌|N/A|
 | 22.30 |❌|N/A|
-| 22.40 |❌|N/A|
+| 22.40 |✅|[*Download Here*](https://github.com/iamstillchris/Fortnite-Heightmaps/blob/main/HM%20Archive/CH3%20-%20HMS/Season%204/S22.40%20-%20HM.rar)|
 ## Chapter 4 (23.00-26.30)
 ### Season 1 (New Beginning)
 | *Version* | *Heightmap* |*HM Download Link* |
@@ -196,6 +196,10 @@ Github created for archiving Fortnite heightmaps!
 | *Version* | *Heightmap* |*HM Download Link* |
 | :---         |     :---:      |          ---: |
 | 31.00 |✅| [*Download Here*](https://github.com/iamstillchris/Fortnite-Heightmaps/tree/main/HM%20Archive/CH5%20-%20HMS/Season%204)|
+| 31.10 |❌| [N/A|
+| 31.20 |❌| [N/A|
+| 31.30 |❌| [N/A|
+| 31.40 |❌| [N/A|
 # Special Maps 
 | *Name* | *Heightmap* |*HM Download Link* |
 | :---         |     :---:      |          ---: |
